@@ -1,46 +1,32 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Kevin Wang
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BA Computer Science
+      institution: University of California, Berkeley
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - UC Berkeley IEEE, Engineering Student Council, Fung Fellowship, CS 61A Academic Intern
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern, Software Development
+      institution: MIT Lincoln Laboratory
+      year: May 2022 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Developed a low-cost, rapidly deployable HF transponder platform, saving 98% of prior transponder operating costs in the field.
+        - Applied graph neural networks for radar signal classification to increase accuracy from prior YOLO model.
+        - Increased the efficiency of Horizon real-time over-the-horizon radar software through implementing ArrayFire tensor functions.
+        - Assisted operations and teardown of DARPA-funded HF over-the-horizon radar array project through onsite software development and hardware maintenance at White Sands Missile Range, NM
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
