@@ -12,72 +12,128 @@
     - title: BA Computer Science
       institution: University of California, Berkeley
       year: 2024
-      description:
-        - UC Berkeley IEEE, Engineering Student Council, Fung Fellowship, CS 61A Academic Intern
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern, Software Development
       institution: MIT Lincoln Laboratory
-      year: May 2022 - Aug 2022
+      year: 2022
       description:
         - Developed a low-cost, rapidly deployable HF transponder platform, saving 98% of prior transponder operating costs in the field.
         - Applied graph neural networks for radar signal classification to increase accuracy from prior YOLO model.
         - Increased the efficiency of Horizon real-time over-the-horizon radar software through implementing ArrayFire tensor functions.
-        - Assisted operations and teardown of DARPA-funded HF over-the-horizon radar array project through onsite software development and hardware maintenance at White Sands Missile Range, NM
+        - Assisted operations and teardown of DARPA-funded HF over-the-horizon radar array project through onsite software development and hardware maintenance at White Sands Missile Range, NM.
 
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Intern
+      institution: NASA Goddard Space Flight Center
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Developed & tested custom TF & Keras applications on the DGX HPC cluster to improve DL parallel training performance.
+        - Drafted a standard tutorial & report for migrating Earth science DL applications to GPU & multi-GPU-based environments.
+        - Delivered a package containing four Earth science DL applications with model & data parallelism for testing GPU platforms.
+        - Presented ‘AI/ML/DL Benchmarks for Earth Science Applications’ alongside fellow NASA and George Mason University NSF STC researchers at the ACM/IEEE SC21 conference.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Research Fellow
+      institution: National Science Foundation
+      year: 2021
       description:
+        - Developed an image classification service deployed on AWS to enable rapid sea ice processing for climate & cryosphere research.
+        - Created & analyzed UNet, FCN, & DeepLabV3 semantic segmentation benchmarks to define a model baseline.
+        - Implemented a novel deep learning semantic segmentation model pipeline with PyTorch to improve classification accuracy by 36%.
+        - Contributing author for ‘ArcCI: a sea ice high resolution aerial image management and processing platform’ in Recent Advancements in Geoinformatics and Data Science (GSA Books).
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Intern
+      institution: United Nations
+      year: 2021
+      description:
+        - Engineered a model to correlate data from financial, criminal, & other records to identify & counter the financing of terrorism.
+        - Applied univariate time series forecasting on GTD dataset to predict if a terrorist attack might occur within a given timeframe.
+        - Modeled AMLSim synthetic banking transaction data on graph convolutional networks & XGBoost.
+        - Contributing researcher on the winning team of the United Nations Unite Ideas Financial Crime Data Challenge.
 
-- title: Open Source Projects
+    - title: Research Intern
+      institution: Harvard University Center for Geographical Analysis
+      year: 2020 - 2021
+      description:
+        - Documented 100+ key community resources & underlying infrastructure important for the mitigation of COVID-19 impacts.
+        - Produced a literature review of 1,298 papers on the state & utility of geospatial analysis tools in the COVID-19 research community.
+        - Conducted statistical NLP data analysis with NLTK, matplotlib, NetworkX, & pandas to identify the utility of geospatial analysis tools. 
+        - Contributing author for ‘Quantitative geographical approaches in COVID-19 research: A review on first- and second-order impacts’ in Geospatial Stories of the Global COVID-19 Pandemic (Springer Nature).
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Video Models for Efficient Disease Detection using Echocardiograms
+      year: 2022
+      description: Tested various state-of-the-art DNN video model architectures and pre-training approaches to improve the training efficiency and overall accuracy of video-based disease detection models. Developed with the UCSF Tison Lab.
+
+    - title: Modelling Amyloid Beta Plaque Formation in Alzheimer’s Disease
+      year: 2021
+      description: Explainable CNN & VAE models learning the relationship between plaque morphology and molecular variation and determining the presence of amyloid plaques (protein aggregates). Developed as part of The Alan Turing Institute’s Data Study Group on Alzheimer’s Research alongside the UK DRI and DEMON.
+
+    - title: Citation.ai
+      year: 2021
+      description: Web application built using Python, React, & the OpenAI GPT-3 API to generate accurate & efficient citations following APA guidelines for researchers, students, & research librarians. Developed with support from the Harvard Undergraduate Machine Learning Research Lab and Harvard Innovation Labs.
+
+    - title: Telepath Application
+      year: 2020
+      description: Mobile application using deep autoencoders for video compression coupled with hardware acceleration to allow for people with unstable internet connections to remain connected with remote healthcare professionals. Developed for the Cal Hacks hack:now hackathon, winner of the IBM and Clinton Global University award.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Youth Delegate, inaugural U.S. Youth Consultation for UN Climate Strategy
+        - United Nations Foundation, United Nations Environmental Programme
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - The Leadership Award
+        - Cal Alumni Association
+    - year: 2021
+      items: 
+        - Unite Ideas Financial Crime Data Challenge Winner
+        - United Nations
+    - year: 2021
+      items: 
+        - 2021 FORM+FUND Fellow
+        - Startup[at]BerkeleyLaw
+    - year: 2021
+      items: 
+        - 2021 UN Millenium Fellow
+        - United Nations Academic Impact and MCN
+    - year: 2020
+      items: 
+        - ThinkChicago Chicago Ideas 2020 Recipient
+        - World Business Chicago
+    - year: 2020
+      items: 
+        - 2020 Columbia-MIT-Harvard Summer Accelerator Fellow
+        - Almaworks Accelerator
+    - year: 2020
+      items: 
+        - ThinkChicago-from-Home 2020 Recipient
+        - World Business Chicago
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - year: 2020
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - IBM CGI U at hack:now
+        - Cal Hacks
 
-- title: Other Interests
+- title: Coursework
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>CS 61A</u> Structure and Interpretation of Computer Programs
+    - <u>CS 61B</u> Data Structures
+    - <u>CS 70</u> Discrete Mathematics and Probability Theory
+    - <u>CS 188</u> Introduction to Artificial Intelligence
+    - <u>DATA 4AC</u> Data and Justice
+    - <u>EE 225D</u> Audio Signal Processing
+    - <u>EECS 16A</u> Designing Information Devices and Systems I
+    - <u>EECS 16B</u> Designing Information Devices and Systems II
+    - <u>EECS 127/227A</u> Optimization Models in Engineering
+    - <u>MATH 54</u> Linear Algebra
+    - <u>LINGUIS 290E</u> Topics in Linguistic Theory: Deep Learning and Phonology
+    - <u>SCANDIN 165</u> Scandinavian Folklore
+    - <u>STAT 134</u> Concepts of Probability
