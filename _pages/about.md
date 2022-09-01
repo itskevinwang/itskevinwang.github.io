@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a third-year undergraduate Computer Science student at [UC Berkeley](https://www.berkeley.edu/) where I'm advised by [Prof. Gašper Beguš](https://gbegus.github.io/) within the [Berkeley Speech and Computation Lab](https://twitter.com/BerkeleySCLab).
