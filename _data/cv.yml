@@ -11,7 +11,7 @@
   contents:
     - title: BA Computer Science
       institution: University of California, Berkeley
-      year: 2024
+      year: 2020 - 2024
 
 - title: Experience
   type: time_table
@@ -83,43 +83,41 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items: 
-        - Youth Delegate, inaugural U.S. Youth Consultation for UN Climate Strategy
-        - United Nations Foundation, United Nations Environmental Programme
-    - year: 2021
-      items: 
-        - The Leadership Award
-        - Cal Alumni Association
-    - year: 2021
-      items: 
-        - Unite Ideas Financial Crime Data Challenge Winner
-        - United Nations
-    - year: 2021
-      items: 
-        - 2021 FORM+FUND Fellow
-        - Startup[at]BerkeleyLaw
-    - year: 2021
-      items: 
-        - 2021 UN Millenium Fellow
-        - United Nations Academic Impact and MCN
-    - year: 2020
-      items: 
-        - ThinkChicago Chicago Ideas 2020 Recipient
-        - World Business Chicago
-    - year: 2020
-      items: 
-        - 2020 Columbia-MIT-Harvard Summer Accelerator Fellow
-        - Almaworks Accelerator
-    - year: 2020
-      items: 
-        - ThinkChicago-from-Home 2020 Recipient
-        - World Business Chicago
+    - title: Youth Delegate, inaugural U.S. Youth Consultation for UN Climate Strategy
+      year: 2022
+      description: United Nations Foundation, United Nations Environmental Programme
+    
+    - title: The Leadership Award
+      year: 2021
+      description: Cal Alumni Association
 
-    - year: 2020
-      items: 
-        - IBM CGI U at hack:now
-        - Cal Hacks
+    - title: Unite Ideas Financial Crime Data Challenge Winner
+      year: 2021
+      description: United Nations
+
+    - title: 2021 FORM+FUND Fellow
+      year: 2021
+      description: Startup[at]BerkeleyLaw
+
+    - title: 2021 UN Millenium Fellow
+      year: 2021
+      description: United Nations Academic Impact and MCN
+
+    - title: ThinkChicago Chicago Ideas 2020 Recipient
+      year: 2020
+      description: World Business Chicago
+
+    - title: 2020 Columbia-MIT-Harvard Summer Accelerator Fellow
+      year: 2020
+      description: Almaworks Accelerator
+
+    - title: ThinkChicago-from-Home 2020 Recipient
+      year: 2020
+      description: World Business Chicago
+
+    - title: IBM CGI U at hack:now
+      year: 2020
+      description: Cal Hacks
 
 - title: Coursework
   type: list
