@@ -41,7 +41,7 @@
         - Developed an image classification service deployed on AWS to enable rapid sea ice processing for climate & cryosphere research.
         - Created & analyzed UNet, FCN, & DeepLabV3 semantic segmentation benchmarks to define a model baseline.
         - Implemented a novel deep learning semantic segmentation model pipeline with PyTorch to improve classification accuracy by 36%.
-        - Contributing author for ‘ArcCI: a sea ice high resolution aerial image management and processing platform’ in Recent Advancements in Geoinformatics and Data Science (GSA Books).
+        - Contributing author for ‘ArcCI - a sea ice high resolution aerial image management and processing platform’ in Recent Advancements in Geoinformatics and Data Science (GSA Books).
 
     - title: Research Intern
       institution: United Nations
@@ -59,7 +59,7 @@
         - Documented 100+ key community resources & underlying infrastructure important for the mitigation of COVID-19 impacts.
         - Produced a literature review of 1,298 papers on the state & utility of geospatial analysis tools in the COVID-19 research community.
         - Conducted statistical NLP data analysis with NLTK, matplotlib, NetworkX, & pandas to identify the utility of geospatial analysis tools. 
-        - Contributing author for ‘Quantitative geographical approaches in COVID-19 research: A review on first- and second-order impacts’ in Geospatial Stories of the Global COVID-19 Pandemic (Springer Nature).
+        - Contributing author for ‘Quantitative geographical approaches in COVID-19 research - A review on first- and second-order impacts’ in Geospatial Stories of the Global COVID-19 Pandemic (Springer Nature).
 
 - title: Projects
   type: time_table
