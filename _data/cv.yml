@@ -20,8 +20,8 @@
       institution: Berkeley Speech and Computation Lab
       year: 2021 - Present
       description:
-        - Developing deep learning models for speech data and using speech to understand how neural nets learn.
-        - Working on Project CETI, machine learning and linguistics towards decoding sperm whale communication.
+        - Developing deep learning models for speech data & using speech to understand how neural nets learn.
+        - Working on Project CETI, machine learning & linguistics towards decoding sperm whale communication.
 
     - title: Research Intern, Software Development
       institution: MIT Lincoln Laboratory
@@ -30,7 +30,7 @@
         - Developed a low-cost, rapidly deployable HF transponder platform, saving 98% of prior transponder operating costs in the field.
         - Applied graph neural networks for radar signal classification to increase accuracy from prior YOLO model.
         - Increased the efficiency of Horizon real-time over-the-horizon radar software through implementing ArrayFire tensor functions.
-        - Assisted operations and teardown of HF over-the-horizon radar array project through onsite software development and hardware maintenance at White Sands Missile Range, NM.
+        - Assisted operations & teardown of HF over-the-horizon radar array project through onsite software development & hardware maintenance at White Sands Missile Range, NM.
 
     - title: Research Intern
       institution: NASA Goddard Space Flight Center
@@ -39,7 +39,7 @@
         - Developed & tested custom TF & Keras applications on the DGX HPC cluster to improve DL parallel training performance.
         - Drafted a standard tutorial & report for migrating Earth science DL applications to GPU & multi-GPU-based environments.
         - Delivered a package containing four Earth science DL applications with model & data parallelism for testing GPU platforms.
-        - Presented ‘AI/ML/DL Benchmarks for Earth Science Applications’ alongside fellow NASA and George Mason University NSF STC researchers at the ACM/IEEE SC21 conference.
+        - Presented ‘AI/ML/DL Benchmarks for Earth Science Applications’ alongside fellow NASA & George Mason University NSF STC researchers at the ACM/IEEE SC21 conference.
 
     - title: Undergraduate Research Fellow
       institution: National Science Foundation
@@ -73,19 +73,19 @@
   contents:
     - title: Video Models for Efficient Disease Detection using Echocardiograms
       year: 2022
-      description: Tested various state-of-the-art DNN video model architectures and pre-training approaches to improve the training efficiency and overall accuracy of video-based disease detection models. Developed with the UCSF Tison Lab.
+      description: Tested various state-of-the-art DNN video model architectures & pre-training approaches to improve the training efficiency and overall accuracy of video-based disease detection models. Developed with the UCSF Tison Lab.
 
     - title: Modelling Amyloid Beta Plaque Formation in Alzheimer’s Disease
       year: 2021
-      description: Explainable CNN & VAE models learning the relationship between plaque morphology and molecular variation and determining the presence of amyloid plaques (protein aggregates). Developed as part of The Alan Turing Institute’s Data Study Group on Alzheimer’s Research alongside the UK DRI and DEMON.
+      description: Explainable CNN & VAE models learning the relationship between plaque morphology & molecular variation & determining the presence of amyloid plaques (protein aggregates). Developed as part of The Alan Turing Institute’s Data Study Group on Alzheimer’s Research alongside the UK DRI & DEMON.
 
     - title: Citation.ai
       year: 2021
-      description: Web application built using Python, React, & the OpenAI GPT-3 API to generate accurate & efficient citations following APA guidelines for researchers, students, & research librarians. Developed with support from the Harvard Undergraduate Machine Learning Research Lab and Harvard Innovation Labs.
+      description: Web application built using Python, React, & the OpenAI GPT-3 API to generate accurate & efficient citations following APA guidelines for researchers, students, & research librarians. Developed with support from the Harvard Undergraduate Machine Learning Research Lab & Harvard Innovation Labs.
 
     - title: Telepath Application
       year: 2020
-      description: Mobile application using deep autoencoders for video compression coupled with hardware acceleration to allow for people with unstable internet connections to remain connected with remote healthcare professionals. Developed for the Cal Hacks hack:now hackathon, winner of the IBM and Clinton Global University award.
+      description: Mobile application using deep autoencoders for video compression coupled with hardware acceleration to allow for people with unstable internet connections to remain connected with remote healthcare professionals. Developed for the Cal Hacks hack:now hackathon, winner of the IBM & Clinton Global University award.
 
 - title: Honors and Awards
   type: time_table
