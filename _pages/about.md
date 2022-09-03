@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>UC Berkeley</p>
-    <p>330 Sutardja Dai Hall</p>
+    <p>330F Sutardja Dai Hall</p>
     <p>Berkeley, CA 94720-1764</p>
 
 news: false  # includes a list of news items
