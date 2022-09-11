@@ -7,7 +7,7 @@ nav: false
 nav_order: 3
 ---
 
-Thank you for your interest in contacting me! This page provides useful information on how to best get in touch.
+Thank you for your interest in contacting me!
 
 If you'd like to get in touch, please send me an email at kevinw[at]berkeley.edu. Reaching out to me through social media networks such as LinkedIn is less likely to warrant a response as I find it difficult to have direct conversations on social media and don't check them regularly. Even when I do see a message, I usually end up asking for an email address so I can reply more easily.
 
