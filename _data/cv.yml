@@ -18,46 +18,47 @@
   contents:
     - title: Undergraduate Researcher
       institution: Berkeley Speech and Computation Lab
-      year: 2021 - Present
+      year: 2022 - Present
       description:
-        - Developing deep learning models for speech data & using speech to understand how neural nets learn.
-        - Working on Project CETI, machine learning & linguistics towards decoding sperm whale communication.
+        - Developing deep learning models for acoustic data using PyTorch and using speech to understand how neural nets learn.
+        - Modeling language acquisition with GANs and VAEs to develop interpretable systems to process language in humanlike ways.
+        - Exploring the application of diffusion models in computational models for the implementation of speech technologies.
+        - Constructing and applying neural networks to sperm whale bioacoustics data to learn meaningful representations of underwater whale vocalizations as part of Project CETI, machine learning and linguistics towards decoding sperm whale communication.
 
     - title: Research Intern, Software Development
       institution: MIT Lincoln Laboratory
       year: 2022
       description:
-        - Developed a low-cost, rapidly deployable HF transponder platform, saving 98% of prior transponder operating costs in the field.
-        - Applied graph neural networks for radar signal classification to increase accuracy from prior YOLO model.
-        - Increased the efficiency of Horizon real-time over-the-horizon radar software through implementing ArrayFire tensor functions.
-        - Assisted operations & teardown of HF over-the-horizon radar array project through onsite software development & hardware maintenance at White Sands Missile Range, NM.
+        - Developed a low-cost, rapidly deployable transponder for radar validation, saving 98% of prior transponder field deployment costs.
+        - Engineered supporting transponder codebase written in C++ to interface with hardware components, allowing for accurate flight tracking and logging, microsecond GPS timekeeping, and full-duplex Rx/Tx capabilities.
+        - Applied graph neural networks through PyTorch for radar signal classification to increase accuracy from prior YOLO model.
+        - Assisted operations and testing of HF over-the-horizon radar array project through onsite Agile software development and hardware maintenance at White Sands Missile Range, NM.
 
     - title: Research Intern
       institution: NASA Goddard Space Flight Center
       year: 2021
       description:
-        - Developed & tested custom TF & Keras applications on the DGX HPC cluster to improve DL parallel training performance.
-        - Drafted a standard tutorial & report for migrating Earth science DL applications to GPU & multi-GPU-based environments.
-        - Delivered a package containing four Earth science DL applications with model & data parallelism for testing GPU platforms.
-        - Presented ‘AI/ML/DL Benchmarks for Earth Science Applications’ alongside fellow NASA & George Mason University NSF STC researchers at the ACM/IEEE SC21 conference.
+        - Developed and tested custom TensorFlow and Keras applications on the DGX high-performance computing (HPC) cluster to improve parallel training performance of deep networks.
+        - Drafted a standard tutorial and report for migrating geoscience deep learning applications to GPU and multi-GPU-based environments, increasing the efficiency of distributed computing on the NASA Discover supercomputer and Prism clusters.
+        - Delivered a package containing four geoscience deep learning applications for testing distributed machine learning platforms.
+        - Presented ‘AI/ML/DL Benchmarks for Earth Science’ at the ACM/IEEE SC21 conference.
 
     - title: Undergraduate Research Fellow
       institution: National Science Foundation
       year: 2021
       description:
-        - Developed an image classification service deployed on AWS to enable rapid sea ice processing for climate & cryosphere research.
-        - Created & analyzed UNet, FCN, & DeepLabV3 semantic segmentation benchmarks to define a model baseline.
-        - Implemented a novel deep learning semantic segmentation model pipeline with PyTorch to improve classification accuracy by 36%.
-        - Contributing author for ‘ArcCI - a sea ice high resolution aerial image management and processing platform’ in Recent Advancements in Geoinformatics and Data Science (GSA Books).
+        - Developed an image classification service deployed on AWS to enable rapid sea ice processing for climate and cryosphere research.
+        - Engineered UNet, FCN, and DeepLabV3 semantic segmentation models trained on high spatial resolution sea ice imagery.
+        - Implemented a novel deep learning semantic segmentation model pipeline to improve sea ice classification accuracy by 36%.
+        - Contributing author for ‘ArcCI: a sea ice high resolution aerial image management and processing platform’ in Recent Advancements in Geoinformatics and Data Science (GSA Books).
 
     - title: Research Intern
       institution: United Nations
       year: 2021
       description:
-        - Engineered a model to correlate data from financial, criminal, & other records to identify & counter the financing of terrorism.
+        - Engineered semantic networks using a NoSQL Neo4j graph database to correlate data from the GTD, sanction lists, Panama Papers, Twitter, and crypto wallets to learn hidden patterns and analyze connections between entities in terrorist networks.
         - Applied univariate time series forecasting on GTD dataset to predict if a terrorist attack might occur within a given timeframe.
-        - Modeled AMLSim synthetic banking transaction data on graph convolutional networks & XGBoost.
-        - Contributing researcher on the winning team of the United Nations Unite Ideas Financial Crime Data Challenge.
+        - Modeled AMLSim synthetic banking transaction data on graph convolutional networks and XGBoost for the UN Office of Counter-Terrorism’s goFintel platform to detect and counter illegal money laundering and terrorism financing activities.
 
     - title: Research Intern
       institution: Harvard University Center for Geographical Analysis

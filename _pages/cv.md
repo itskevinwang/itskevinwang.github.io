@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: resume_kevin_2022.pdf
+cv_pdf: cv_kevin_wang_2022.pdf
 ---
